@@ -1,0 +1,48 @@
+{
+
+  "bot": {
+
+    "token": "TOKEN",
+    "prefix": "!",
+    "activity": "Botun Durumu",
+    "Sunucuİsmi": "Deneme",
+    "BotSahip": ["701831314533384263",""],
+    "footer": "ErdemÇakıroğlu 💙 V13 RolAlma"
+  },
+
+  "emoji": {
+    "Onay": "<a:849024075748999238:971731831277907978>",
+    "Iptal": "<a:842427799246602281:971731834494922802>",
+    "Tag": "<a:815737597888430090:971731833853194330>"
+  },
+
+  "Kanal": {
+    "RenkRolKanal": "Renk Rol Kanal ID",
+    "EtkinlikRolKanal": "Etkinlik Rol Kanal ID",
+    "burcrolKanal": "Burc Rol Kanal ID",
+    "BoosterRenkRolKanal": "Booster Rol Kanal ID"
+  },
+
+  "roles": {
+    "BooterRol": "",
+
+    "etkinlik": "",
+    "cekilis": "",
+
+    "koçBurç": "Koç Burç Rol ID",
+    "boğaBurç": "Boğa Burç Rol ID",
+    "ikizlerBurç": "İkizler Burç Rol ID",
+    "yengeçBurç": "Yengeç Burç Rol ID",
+    "aslanBurç": "ASlan Burç Rol ID",
+    "başakBurç": "Başak Burç Rol ID",
+    "teraziBurç": "Terazi Burç Rol ID",
+    "akrepBurç": "Akrep Burç Rol ID",
+    "yayBurç": "Yay Burç Rol ID",
+    "oğlakBurç": "Oğlak Burç Rol ID",
+    "kovaBurç": "Kova Burç Rol ID",
+    "balıkBurç": "Balık Burç Rol ID"
+
+
+  }
+
+}
